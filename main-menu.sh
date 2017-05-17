@@ -1,3 +1,5 @@
+#!/bin/bash
+
 
 #------Main Menu Fonction------------
 main_menu(){
